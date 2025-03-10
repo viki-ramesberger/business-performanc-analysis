@@ -6,7 +6,6 @@ This project for an entertainment app, focuses on analyzing advertising efficien
 - **Marketing Analyst**
 - **Product Analyst**
 - **Data Analyst**
-- 
 
 ## 🎯 Project Objectives
 The key objectives of the project include:
